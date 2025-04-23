@@ -35,7 +35,7 @@ This project involves:
 
 ---
 
-## 🛠️ Important & Tools I use:
+## 🛠️ Important Tools I use:
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
